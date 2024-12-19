@@ -1,0 +1,1 @@
+The Machine Learning Algorithm Comparison App is a Streamlit-based application that utilizes the lazypredict library to compare the performance of multiple machine learning regression algorithms on a given dataset. The app provides insights into model metrics, including R-squared, RMSE, and computation time, along with downloadable performance reports and visualizations
